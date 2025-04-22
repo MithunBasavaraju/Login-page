@@ -41,9 +41,7 @@ Folder Structure
 └── js/              # Optional scripts
 
 Author
-
-Your Name – mithunbasavaraju
-
+MithunBasavaraju
 
 License
 
